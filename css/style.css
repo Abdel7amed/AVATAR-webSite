@@ -21,7 +21,8 @@ body{
 .container{
     background-image: 
     linear-gradient(to right, #01022de5 30%, #00000088),
-    url(/photos/download.webp)
+    /* url(/photos/download.webp) */
+    url(https://ibb.co/kJz3ZrJ)
     ;
     background-position: center;
     width: 90%;
@@ -31,7 +32,8 @@ body{
     background-image:  
     /* transparent => شفاف*/
     linear-gradient(to right, #01022de5 30%, transparent),
-    url(/photos/download.webp)
+    /* url(/photos/download.webp) */
+    url(https://ibb.co/kJz3ZrJ)
     ;
 }
 header{
